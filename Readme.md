@@ -93,7 +93,7 @@ Trabajar con eventos para crear interacciones dinámicas.
 ## Cómo ver mi proyecto
 
 1. **Entra a mi GitHub**: [github.com/arielg376](https://github.com/arielg376)
-2. **Busca el proyecto**: "Pre_entrega_frontend_js"
+2. **Busca el proyecto**: "Proyecto_frontend"
 3. **O ve directo aquí**: [https://github.com/arielg376/Proyecto_fronted.git](https://arielg376.github.io/Pre_entrega_frontend_js/)
 
 ¡También puedes descargarlo y abrir el `index.html` en tu navegador!
@@ -101,9 +101,9 @@ Trabajar con eventos para crear interacciones dinámicas.
 ## Sobre mí
 
 Hola! Soy **Ariel González** 
--Estoy aprendiendo desarrollo frontend
--Me encanta la cerveza artesanal, Motorhead y el Rock (por eso elegí este tema)
--Este es mi primer proyecto "en serio"
+-Estoy aprendiendo desarrollo frontend con Java Script,
+-Me encanta la cerveza artesanal, Motorhead y el Rock (por eso elegí este tema),
+-Este es mi primer proyecto "en serio".
 -Mi correo: arielg376@gmail.com
 
 ## Lo que viene después
@@ -119,5 +119,5 @@ Quiero seguir mejorando la página agregando:
 Como recién estoy empezando, cualquier consejo o feedback es super bienvenido. ¡No dudes en escribirme! 
 
 Licencia
-© Ace of beer 2025.Todos los derechos reservados Este proyecto es de uso educativo.
+©2025 Ace of beer.Todos los derechos reservados Este proyecto es de uso educativo.
 Queda prohibido su uso comercial sin autorización.
