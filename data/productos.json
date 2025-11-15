@@ -1,0 +1,41 @@
+[
+    {   "id":"1",
+        "nombre":"Ace of Beer Ipa 330ml",
+        "img":"img/ipa.jpeg",
+        "precio":1350,
+        "descripcion":"IPA artesanal hecha con el espíritu Motörhead. Intensa, honesta y sin concesiones."
+    },
+    {   "id":"2",
+        "nombre":"Ace of Beer Stout 330ml",
+        "img": "img/stout 1.png",
+        "precio":1350,
+        "descripcion":"Stout artesanal con notas de café y cacao. Oscura, intensa y con alma de riff lento."
+    },
+    {  "id":"3",
+        "nombre":"Ace of Beer Red Ale 330ml",
+        "img":"img/red.png",
+        "precio":1500,
+        "descripcion":"Red Ale artesanal con notas de malta tostada y caramelo. Color fuego, alma de distorsión."
+    },
+    {  "id":"4",
+        "nombre":"Ace of Beer Pilsen lager 330ml",
+        "img":"img/pilsen-lager.png",
+        "precio":1300,
+        "descripcion":"Pilsen de Ace of Beer es la birra que acompaña el ensayo, en la vereda, la que se comparte sin preguntar."
+    },
+    {  "id":"5",
+        "nombre":"Ace of Beer Saison 330ml",
+        "img":"img/saison.png",
+        "precio":1800,
+        "descripcion":"Saison de Ace of Beer es como un disco raro que solo los que saben se animan a poner."
+    },
+    {  "id":"6",
+        "nombre":"Ace of Beer Mild Ale 330ml",
+        "img":"img/mild.png", 
+        "precio":2000,
+        "descripcion":"Mild de Ace of Beer es como ese tema lento que cierra el disco: cálido, honesto y lleno de textura"
+    }
+
+
+
+]
