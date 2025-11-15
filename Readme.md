@@ -94,7 +94,7 @@ Trabajar con eventos para crear interacciones dinámicas.
 
 1. **Entra a mi GitHub**: [github.com/arielg376](https://github.com/arielg376)
 2. **Busca el proyecto**: "Proyecto_frontend"
-3. **O ve directo aquí**: [https://github.com/arielg376/Proyecto_fronted.git](https://arielg376.github.io/Pre_entrega_frontend_js/)
+3. **O ve directo aquí**: [https://arielg376.github.io/Proyecto_fronted/](https://arielg376.github.io/Proyecto_fronted/)
 
 ¡También puedes descargarlo y abrir el `index.html` en tu navegador!
 
