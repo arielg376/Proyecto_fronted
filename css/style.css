@@ -382,32 +382,3 @@ button:hover {
     margin: 0;
 }
 
-/* -------------------------------------------------------------------------- */
-/*                                media queries                               */
-/* -------------------------------------------------------------------------- */
-@media (max-width: 768px) {
-  .header {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .header__logo,
-  .header__nav {
-    margin: 0;
-  }
-
-  .contenedor-tarjetas {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .tarjetas_productos {
-    width: 80%;
-  }
-  .form {
-    width: 80%;
-    min-width: 400px;
-  }
-}
-
