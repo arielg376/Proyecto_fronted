@@ -387,16 +387,25 @@ button:hover {
 /* -------------------------------------------------------------------------- */
 @media (max-width: 768px) {
   
+    .header {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .header__logo,
+  .header__nav {
+    margin: 0;
+  }
 
  .contenedor-tarjetas {
         display: flex;
         flex-direction: column;
         align-items: center;
-        gap: 25px;
+        gap: 2rem;
         padding: 15px;
     }
     
-    /* Tarjetas de productos en home */
+
     .contenedor-tarjetas .tarjetas_productos {
         width: 90% !important;
         max-width: 300px;
@@ -405,9 +414,10 @@ button:hover {
         flex-direction: column;
         align-items: center;
         text-align: center;
+        gap: 1rem;
     }
     
-    /* Títulos en home */
+    
     .titulo_home,
     .subtitulo_home,
     .productos_home h2 {
@@ -415,9 +425,14 @@ button:hover {
         width: 100%;
     }
     
-    /* Párrafos en home */
+    
     .parrafo_home {
         width: 95%;
         text-align: center;
     }
 }
+
+
+
+
+ 
