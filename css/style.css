@@ -386,29 +386,38 @@ button:hover {
 /*                                media queries                               */
 /* -------------------------------------------------------------------------- */
 @media (max-width: 768px) {
-  .header {
-    display: flex;
-    flex-direction: column;
-  }
+  
 
-  .header__logo,
-  .header__nav {
-    margin: 0;
-  }
-
-  .contenedor-tarjetas {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .tarjetas_productos {
-    width: 80%;
-    align-content: center;
-    gap: 1rem;
-  }
-  .form {
-    width: 80%;
-    min-width: 400px;
-  }
+ .contenedor-tarjetas {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 25px;
+        padding: 15px;
+    }
+    
+    /* Tarjetas de productos en home */
+    .contenedor-tarjetas .tarjetas_productos {
+        width: 90% !important;
+        max-width: 300px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    /* Títulos en home */
+    .titulo_home,
+    .subtitulo_home,
+    .productos_home h2 {
+        text-align: center;
+        width: 100%;
+    }
+    
+    /* Párrafos en home */
+    .parrafo_home {
+        width: 95%;
+        text-align: center;
+    }
 }
