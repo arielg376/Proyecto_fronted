@@ -416,6 +416,11 @@ button:hover {
         text-align: center;
         gap: 1rem;
     }
+
+    .form {
+    width: 80%;
+    min-width: 400px;
+  }
     
     
     .titulo_home,
@@ -430,9 +435,5 @@ button:hover {
         width: 95%;
         text-align: center;
     }
+    
 }
-
-
-
-
- 
